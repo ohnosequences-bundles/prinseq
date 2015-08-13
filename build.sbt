@@ -1,7 +1,7 @@
 Nice.scalaProject
 
 name := "prinseq"
-organization := "ohnosequencesBundles"
+organization := "ohnosequences-bundles"
 description := "A bundle for prinseq tool"
 
 publishBucketSuffix := "era7.com"
